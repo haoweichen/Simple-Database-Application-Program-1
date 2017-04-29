@@ -8,7 +8,7 @@ For each product, also compute the average sales quantity.
 For this assignment, you can use a simple data structure (e.g., an array) to maintain the list of “information” being computed/captured (we will discuss the type of information you will need to compute/capture and maintain internally for the report over the next couple of lectures).
 The following is a sample output – quantities displayed are for illustration only (not the actual values).
 
-![reflection](https://drive.google.com/file/d/0Bz66ZHFeRBIlSFZlbHNIQWNlUzQ/view?usp=sharing)
+![reflection](https://drive.google.com/file/d/0Bz66ZHFeRBIla3FtczZTODJQVTQ/view?usp=sharing)
 
 Make sure that:
 1. “select * from sales” is the ONLY SQL statement allowed in your program.
