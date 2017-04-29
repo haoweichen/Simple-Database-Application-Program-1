@@ -8,17 +8,7 @@ For each product, also compute the average sales quantity.
 For this assignment, you can use a simple data structure (e.g., an array) to maintain the list of “information” being computed/captured (we will discuss the type of information you will need to compute/capture and maintain internally for the report over the next couple of lectures).
 The following is a sample output – quantities displayed are for illustration only (not the actual values).
 
-PRODUCT  MAX_Q    CUSTOMER   DATE         ST   MIN_Q   CUSTOMER   DATE          ST   AVG_Q
-=======  ======   ========   ==========   ==   =====   ========   ===========   ==   =====
-Pepsi    2893     Bloom      01/01/2006   NJ      12   Sam        09/25/2001    NY    1435
-Mile     159      Sam        02/15/2002   NJ       1   Emily      03/23/2004    CT      56
-Bread    3087     Emily      07/01/2005   NY       2   Helen      02/02/2001    NJ    1512
- 
-CUSTOMER  PRODUCT  CT_MAX   DATE         NY_MIN   DATE         NJ_MIN    DATE
-========  =======  ======   ==========   ======   ==========   ========  ==========
-Sam       Egg        1908   01/11/2011      234   07/24/2005          2  11/03/2008
-Helen     Cookies     392   03/31/2002     2342   09/14/2000         11  07/23/2002
-Bloom     Butter     7045   09/22/2003      923   03/10/2004          8  09/11/2006
+![reflection](https://drive.google.com/open?id=0Bz66ZHFeRBIlSFZlbHNIQWNlUzQ)
 
 Make sure that:
 1. “select * from sales” is the ONLY SQL statement allowed in your program.
